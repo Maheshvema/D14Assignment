@@ -1,0 +1,6 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Triangle\Triangle\bin\Debug\Triangle.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Triangle\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Triangle\Triangle\obj\Debug\Triangle.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Triangle\Triangle\obj\Debug\Triangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Rectangle\Rectangle\bin\Debug\Rectangle.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Rectangle\Rectangle\obj\Debug\Rectangle.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Rectangle\Rectangle\obj\Debug\Rectangle.pdb

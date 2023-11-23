@@ -1,0 +1,6 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Sqaure\Sqaure\bin\Debug\Sqaure.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Sqaure\Sqaure\bin\Debug\Sqaure.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Sqaure\Sqaure\obj\Debug\Sqaure.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Sqaure\Sqaure\obj\Debug\Sqaure.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Sqaure\Sqaure\obj\Debug\Sqaure.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-14 Assignment\Sqaure\Sqaure\obj\Debug\Sqaure.pdb
